@@ -16,7 +16,7 @@ permissions:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: backend
-  ECR_REGISTRY: 096841258361.dkr.ecr.us-east-1.amazonaws.com
+  ECR_REGISTRY: 501382769295.dkr.ecr.us-east-1.amazonaws.com
   EKS_CLUSTER_NAME: cluster
 
 jobs:
