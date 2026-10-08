@@ -15,7 +15,7 @@ permissions:
 
 env:
   AWS_REGION: us-east-1
-  AWS_ACCOUNT_ID: "096841258361"
+  AWS_ACCOUNT_ID: "501382769295"
   ECR_REPOSITORY: frontend
   EKS_CLUSTER_NAME: cluster
 
